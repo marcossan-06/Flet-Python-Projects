@@ -1,0 +1,133 @@
+{
+    "VEHICULOS_AUTORIZADOS": {
+        "2202GKD": {
+            "propietario": "Marcos",
+            "tipo_vehiculo": "Coche"
+        },
+        "HHHH43": {
+            "propietario": "ss",
+            "tipo_vehiculo": "Moto"
+        },
+        "9197BPX": {
+            "propietario": "JOSE",
+            "tipo_vehiculo": "Coche"
+        }
+    },
+    "REGISTRO_ACCESOS": [
+        {
+            "fecha_hora": "2025-11-27 21:15:22",
+            "matricula": "9197BPX",
+            "resultado": "Permitido"
+        },
+        {
+            "fecha_hora": "2025-11-27 21:15:21",
+            "matricula": "9197BPX",
+            "resultado": "Permitido"
+        },
+        {
+            "fecha_hora": "2025-11-27 21:15:19",
+            "matricula": "9197BPX",
+            "resultado": "Permitido"
+        },
+        {
+            "fecha_hora": "2025-11-27 21:15:07",
+            "matricula": "9197BPX",
+            "resultado": "Denegado"
+        },
+        {
+            "fecha_hora": "2025-11-27 21:09:03",
+            "matricula": "JDJDJDJ56",
+            "resultado": "Denegado"
+        },
+        {
+            "fecha_hora": "2025-11-27 21:01:52",
+            "matricula": "GVSX",
+            "resultado": "Denegado"
+        },
+        {
+            "fecha_hora": "2025-11-27 21:01:46",
+            "matricula": "5G3C34CT",
+            "resultado": "Denegado"
+        },
+        {
+            "fecha_hora": "2025-11-27 21:01:38",
+            "matricula": "HHHH43",
+            "resultado": "Permitido"
+        },
+        {
+            "fecha_hora": "2025-11-27 21:01:27",
+            "matricula": "2202GKD",
+            "resultado": "Permitido"
+        },
+        {
+            "fecha_hora": "2025-11-27 21:01:21",
+            "matricula": "SSS",
+            "resultado": "Denegado"
+        },
+        {
+            "fecha_hora": "2025-11-27 21:01:17",
+            "matricula": "ESS",
+            "resultado": "Denegado"
+        },
+        {
+            "fecha_hora": "2025-11-27 20:14:34",
+            "matricula": "2202GKD",
+            "resultado": "Permitido"
+        },
+        {
+            "fecha_hora": "2025-11-27 20:14:33",
+            "matricula": "2202GKD",
+            "resultado": "Permitido"
+        },
+        {
+            "fecha_hora": "2025-11-27 20:14:31",
+            "matricula": "2202GKD",
+            "resultado": "Permitido"
+        },
+        {
+            "fecha_hora": "2025-11-27 20:14:28",
+            "matricula": "2202GKD",
+            "resultado": "Permitido"
+        },
+        {
+            "fecha_hora": "2025-11-27 20:14:25",
+            "matricula": "V",
+            "resultado": "Denegado"
+        },
+        {
+            "fecha_hora": "2025-11-27 20:14:23",
+            "matricula": "V",
+            "resultado": "Denegado"
+        },
+        {
+            "fecha_hora": "2025-11-27 20:14:22",
+            "matricula": "2202GKD",
+            "resultado": "Permitido"
+        },
+        {
+            "fecha_hora": "2025-11-27 20:14:21",
+            "matricula": "2202GKD",
+            "resultado": "Permitido"
+        },
+        {
+            "fecha_hora": "2025-11-27 20:14:20",
+            "matricula": "2202GKD",
+            "resultado": "Permitido"
+        },
+        {
+            "fecha_hora": "2025-11-27 20:14:14",
+            "matricula": "2202GKD",
+            "resultado": "Permitido"
+        },
+        {
+            "fecha_hora": "2025-11-27 20:13:54",
+            "matricula": "2202GKD",
+            "resultado": "Denegado"
+        },
+        {
+            "fecha_hora": "2025-11-27 20:13:48",
+            "matricula": "GG",
+            "resultado": "Denegado"
+        }
+    ]
+}
